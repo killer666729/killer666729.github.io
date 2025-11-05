@@ -1,0 +1,6 @@
+
+changeBg:9e28a239238c9675a1f2920e876e5dc3bb4c3dd04819058d1f0fff0274a43cbf.png -transform={"godrayFilm":1};
+pixiPerform:cherryBlossoms;
+:南哥，我爱你|嗯，我知道;
+intro:从此两个人幸福的生活在了一起|好结局：成都——赵雷 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

@@ -1,0 +1,14 @@
+; 初始场景，以及特效演示
+bgm:CMJ - 所爱隔山海.mp3 -vocal= 所爱隔山海.mp3;
+intro:欢迎来到|王箫与的大学生活|by  DADDY yang -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=slideIn -delayTime=1500;
+changeBg:生成特定场景图.png -transform={"godrayFilm":1};
+changeFigure:2.png -right -zIndex=1 -id=1;
+王箫与:今天是我上大学的第一天,好期待哦~~~|不知道会遇见怎样的同学和室友呢 -id -figureId=1;
+setAnimation:shockwaveOut -target=1;
+setTextbox:on;
+setTransition: -target=1 -enter=glitchFilm;
+changeBg:3.png;
+setTextbox:on;
+changeFigure:2.png -right;
+王箫与:我靠，这么大的寝室，想必在这里和室友wan♂一定会很有意思吧;
+changeScene:寝室.txt;

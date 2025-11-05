@@ -1,0 +1,9 @@
+Game_name:纯情男孩王箫与的大学生活;
+Game_key:wxy;
+Title_img:生成特定场景图.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Default_Language:zh_CN;
+Enable_Appreciation:false;
+Game_Logo:生成特定场景图.png;
+Package_name:wxysex1.0;

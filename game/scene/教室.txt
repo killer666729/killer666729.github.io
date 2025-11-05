@@ -1,0 +1,16 @@
+
+changeBg:生成大学教室照片.png;
+changeFigure:2.png -left -id=1;
+setTransition: -target=1 -enter=shockwaveIn -exit=shockwaveOut;
+王箫与:（对着人体骨骼模型哀嚎）救命！这肱骨和桡骨我又搞混了，明天解剖小测肯定凉！|南哥救我！！！;
+setAnimation:shockwaveOut -target=1;
+changeFigure:生成特定场景图.png -right;
+文兴南:（撸起袖子，走过来指着自己的胳膊）|你看，肱骨是上臂唯一的长骨，桡骨在外侧，记住 “肱上桡外”，上次课老师反复强调的。;
+changeFigure:2.png -left;
+王箫与:（凑过去盯着看）还是你记得清…… 我上课光盯着模型发呆了。;
+changeBg:生成大学教室照片.png;
+intro:万恶的考试来到|王箫与一点也没复习|怎么办|谁管呢：）hhhh -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500;
+pixiInit;
+王箫与:完了！护理学导论的只是我全忘了，怎么办南哥！;
+文兴南:（递过去张小抄）我昨天把卷子偷出来了，重点都标了红笔。你改改抄上去，应该能过。;
+changeScene:深夜寝室.txt;

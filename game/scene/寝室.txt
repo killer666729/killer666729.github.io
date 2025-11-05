@@ -1,0 +1,11 @@
+
+intro:第一章|我要成为南哥背后的男人！！！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500;
+changeBg:3.png;
+changeFigure:生成特定场景图.png -right -id=2;
+文兴南:oi，小瘪三。我是寝室的文兴南。|目标是成为辽中医龙头的男人，跟我混包你顿顿有好果汁吃 -id -figureId=2;
+changeFigure:2.png -right -id=1;
+王箫与:南哥好！|（看着南哥宽厚的肩膀，心里有了一丝难言的情愫） -id -figureId=1;
+setAnimation:shockwaveOut -target=1;
+文兴南:不错嘛，小鬼很上道，赏你根华子抽 -id -figureId=2;
+intro:就这样，王箫与开始了和南哥的故事 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500;
+changeScene:教室.txt;

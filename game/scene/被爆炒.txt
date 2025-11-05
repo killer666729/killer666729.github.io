@@ -1,0 +1,12 @@
+
+changeBg:9e28a239238c9675a1f2920e876e5dc3bb4c3dd04819058d1f0fff0274a43cbf.png -transform={"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":1,"godrayFilm":1};
+:南哥你要干什么！！！|不要！！！;
+:啊啊啊啊阿，痛！！！！;
+文兴南:小宇，往日种种，你当真都不记得了吗|（王箫与低着头不说话）;
+王箫与:往日，你说的可是往日？|。。。。。。;
+文兴南:你可有何话说？;
+王箫与:再无话说，请速速动手。;
+pixiPerform:heavySnow;
+intro:王箫与一个人坐在凌乱的床上，以枪抵床，低头无语 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:王箫与感觉什么东西永远的弯掉了|坏结局：成为炉鼎 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=2500;
+end;
